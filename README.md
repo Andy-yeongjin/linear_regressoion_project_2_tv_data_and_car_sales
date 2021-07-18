@@ -1,4 +1,4 @@
-### linear_regressoion_project_2_tv_data_and_car_sales
+# ML팀 README
 ## 문제제기
 ![image](https://user-images.githubusercontent.com/79970424/126072008-b45a3e83-dca0-4c9f-991c-42fc53264902.png)
 
